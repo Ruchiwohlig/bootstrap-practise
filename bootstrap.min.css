@@ -1,0 +1,16 @@
+
+
+h1{
+	margin-left: 20px;
+	color: #808080;
+}
+
+.container > h1 { font-size: 20px; }
+
+.col-md-6 { background-color:#B0E0E6; }
+
+.col-md-6:nth-of-type(2){ background-color:#808080;}
+
+.form-group { margin-top: 10px; }
+
+.radio { margin:10px;}
